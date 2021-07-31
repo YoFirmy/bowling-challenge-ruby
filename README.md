@@ -21,4 +21,4 @@ I'd like bonuses to be applied automatically
 ```
 
 ## Class Diagram
-![Class Diagram](https://github.com/YoFirmy/bowling-challenge-ruby/blob/main/images/example_ten_pin_scoring.png)
+![Class Diagram](https://github.com/YoFirmy/bowling-challenge-ruby/blob/main/images/class_diagram.png)
